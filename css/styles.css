@@ -1,0 +1,15 @@
+:root {
+
+    --sizing-height: 100vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border-sizing: border-box;
+}
+
+.hero {
+    widht: 100%;
+    height: var(--sizing-height);
+}
